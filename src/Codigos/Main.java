@@ -12,5 +12,7 @@ import java.awt.event.*;
  * @author 631820123
  */
 public class Main {
-    
+ double c;
+ int a;
+ float b;
 }
